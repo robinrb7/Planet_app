@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mainPlanet</string>
+    <string name="moon">Moon</string>
+    <string name="planet_name">Planet name</string>
+</resources>
